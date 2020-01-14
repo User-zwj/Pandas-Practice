@@ -1,6 +1,7 @@
 # Pandas-Practice
 
-# Contents
+Contents
+
 ## Read write display a dataframe)
 - pd.read_csv()
 - pd.options.display.max_rows = 10
