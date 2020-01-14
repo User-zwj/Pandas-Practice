@@ -1,6 +1,4 @@
-# Pandas-Practice
-
-Contents
+# Pandas-Practice Contents
 
 ## Read write display a dataframe)
 - pd.read_csv()
